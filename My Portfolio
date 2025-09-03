@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shoaib Akhter - Amazon PPC Specialist</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Shoaib Akhter</h1>
+        <p>Amazon PPC Specialist | Driving E-commerce Success with Data-Driven Strategies</p>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am Shoaib Akhter, an experienced Amazon PPC expert managing over 300 Amazon accounts, specializing in PPC campaigns and A+ content creation.</p>
+    </section>
+
+    <section id="services">
+        <h2>Services Offered</h2>
+        <ul>
+            <li>Amazon PPC Management</li>
+            <li>A+ Content Creation</li>
+            <li>Brand Consulting</li>
+            <li>Marketing Consulting</li>
+            <li>SEO for Amazon</li>
+            <li>Virtual Assistance</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: <a href="mailto:shoaibhadul206@gmail.com">shoaibhadul206@gmail.com</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/shoaib-akhter-amazon-virtual-assistant-ppc-amazonads-advertising/" target="_blank">Shoaib Akhter LinkedIn</a></p>
+        <p>GitHub: <a href="https://github.com/khanshoaiib/Shoaib-Akhter" target="_blank">Shoaib Akhter GitHub</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Shoaib Akhter</p>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
